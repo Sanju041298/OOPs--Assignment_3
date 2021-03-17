@@ -4,9 +4,11 @@ User Management System is designed to perform operations for the users like add 
 There are two types of Users
 . Customer
 . Admin
-# CRUD -operations performed
-.Username
 
+
+
+# CRUD -operations performed
+#Username
 .User type
 .Password
 .Age
