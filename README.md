@@ -6,7 +6,6 @@ There are two types of Users
 . Admin
 
 
-
 # CRUD -operations performed
 #Username
 .User type
@@ -15,6 +14,8 @@ There are two types of Users
 .Email id
 .Mobile No.
 .Address 
+
+
 # Commands to execute
 . To run =>  sbt run
 .To clean target folders => sbt clean
