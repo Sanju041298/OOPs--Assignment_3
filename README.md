@@ -2,12 +2,12 @@
 User Management System is designed to perform operations for the users like add users, display user details, update user details, delete users.
 
 There are two types of Users
-. Customer
-. Admin
+###Customer
+###Admin
 
 
-# CRUD -operations performed
-#Username
+** CRUD -operations performed **
+.Username
 .User type
 .Password
 .Age
@@ -17,5 +17,7 @@ There are two types of Users
 
 
 # Commands to execute
-. To run =>  sbt run
-.To clean target folders => sbt clean
+'''
+To run =>  sbt run
+To clean target folders => sbt clean
+'''
